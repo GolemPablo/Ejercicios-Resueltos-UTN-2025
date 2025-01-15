@@ -7,4 +7,3 @@
 marca = input("Ingrese la marca del automovil: ")
 modelo = input("Ingrese el modelo del automovil: ")
 print(f"Usted ingreso el automovil de modelo {modelo} de la marca {marca}")
-"hola"
