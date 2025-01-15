@@ -6,11 +6,12 @@ Suma > 50 y <= 100
 Suma > 100 y <= 200
 Suma > 200"""
 
-
+#solicitamos los datos al usuario
 num1 = float(input("Ingrese el primer número: "))
 num2 = float(input("Ingrese el segundo número: "))
 suma = num1+num2
 
+#según el valor, imprimimos el resultado según la consigna
 if suma<=50:
     print("Suma <=50")
 elif suma>50 and suma<=100:
